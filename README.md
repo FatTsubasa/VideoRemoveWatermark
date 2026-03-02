@@ -41,9 +41,9 @@ ProPainter.pth
 4.all watermark removed video generated in output_videos  
 
 # Quality
-compare sample in input_videos and output_videos
-https://github.com/FatTsubasa/VideoRemoveWatermark/blob/main/input_videos/fatKing.mp4
-https://github.com/FatTsubasa/VideoRemoveWatermark/blob/main/output_videos/fatKing_no_watermark.mp4
+compare sample in input_videos and output_videos:
+https://github.com/user-attachments/assets/08ca7d44-7f91-4b11-aa68-dfc2c30343e7
+https://github.com/user-attachments/assets/583220e3-9ea2-464f-a570-3e1abb851a46
 
 # Performance:
 Propainter cost huge VRam, more VRam more fast, when processing a 1280x720 5s video, it will exhaust my 32GB VRam of RTX 5090 and 60s
@@ -51,5 +51,6 @@ Propainter cost huge VRam, more VRam more fast, when processing a 1280x720 5s vi
 # Reference:
 https://github.com/sczhou/ProPainter/  
 http://www.paddleocr.ai/latest/index.html  
+
 
 
