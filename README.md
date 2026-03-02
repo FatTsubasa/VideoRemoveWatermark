@@ -42,13 +42,14 @@ ProPainter.pth
 
 # Quality
 compare sample in input_videos and output_videos
-<video src="https://github.com/FatTsubasa/VideoRemoveWatermark/blob/main/input_videos/fatKing.mp4" controls></video>
-<video src="https://github.com/FatTsubasa/VideoRemoveWatermark/blob/main/output_videos/fatKing_no_watermark.mp4" controls></video>
+https://github.com/FatTsubasa/VideoRemoveWatermark/blob/main/input_videos/fatKing.mp4
+https://github.com/FatTsubasa/VideoRemoveWatermark/blob/main/output_videos/fatKing_no_watermark.mp4
 
 # Performance:
-Propainter cost huge VRam, more VRame more fast, when processing a 1280x720 5s video, it will exhaust my 32GB VRam of RTX 5090 and 60s
+Propainter cost huge VRam, more VRam more fast, when processing a 1280x720 5s video, it will exhaust my 32GB VRam of RTX 5090 and 60s
 
 # Reference:
 https://github.com/sczhou/ProPainter/  
 http://www.paddleocr.ai/latest/index.html  
+
 
